@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationPyramid\ConsoleApplicationPyramid\bin\Debug\ConsoleApplicationPyramid.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationPyramid\ConsoleApplicationPyramid\bin\Debug\ConsoleApplicationPyramid.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationPyramid\ConsoleApplicationPyramid\bin\Debug\ConsoleApplicationPyramid.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationPyramid\ConsoleApplicationPyramid\obj\Debug\ConsoleApplicationPyramid.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationPyramid\ConsoleApplicationPyramid\obj\Debug\ConsoleApplicationPyramid.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationPyramid\ConsoleApplicationPyramid\obj\Debug\ConsoleApplicationPyramid.pdb
